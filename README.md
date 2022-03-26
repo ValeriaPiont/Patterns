@@ -8,6 +8,7 @@ This repository has design patterns implemented in Java.
 
 ### Structural Design Patterns:
 * [Proxy](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/proxy)
+* [Decorator](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/decorator)
 
 ### Behavioral Design Patterns:
 * 
