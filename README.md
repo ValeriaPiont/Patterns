@@ -5,6 +5,7 @@ This repository has design patterns implemented in Java.
 ### Creational Design Patterns: 
 * [Bulider](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/builder)
 * [Factory method](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/factory_method)
+* [Singleton](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/singleton)
 
 ### Structural Design Patterns:
 * [Proxy](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/proxy)
