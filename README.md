@@ -16,3 +16,4 @@ This repository has design patterns implemented in Java.
 ### Behavioral Design Patterns:
 * [State](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/state)
 * [Template method](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/template_method)
+* [Chain of responsibility](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/chain_of_responsibility)
