@@ -1,4 +1,4 @@
-package proxy;
+package proxy.implementation_1;
 
 public class RealProject implements Project{
     private String url;
