@@ -1,6 +1,7 @@
 # Java patterns
 
-This repository has design patterns implemented in Java.
+This repository has design patterns implemented in Java and exercises of [the course of Design
+Patterns by University of Alberta on Coursera](https://www.coursera.org/learn/design-patterns).
 
 ### Creational Design Patterns: 
 * [Bulider](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/builder)
@@ -17,3 +18,5 @@ This repository has design patterns implemented in Java.
 * [State](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/state)
 * [Template method](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/template_method)
 * [Chain of responsibility](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/chain_of_responsibility)
+* [Observer](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/observer)
+* [Command](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/command)
