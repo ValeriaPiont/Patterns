@@ -13,6 +13,7 @@ Patterns by University of Alberta on Coursera](https://www.coursera.org/learn/de
 * [Decorator](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/decorator)
 * [Adapter](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/adapter)
 * [Composite](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/composite)
+* [Facade](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/facade)
 
 ### Behavioral Design Patterns:
 * [State](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/state)
@@ -20,3 +21,4 @@ Patterns by University of Alberta on Coursera](https://www.coursera.org/learn/de
 * [Chain of responsibility](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/chain_of_responsibility)
 * [Observer](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/observer)
 * [Command](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/command)
+* [Mediator](https://github.com/ValeriaPiont/Patterns/tree/master/src/main/java/mediator)
